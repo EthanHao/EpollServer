@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>0</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/include/ProducerConsumerQueue.h</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/include/ByteStreamEventHandler.h</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/include/ErrorCode.h</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/include/PacketHearder.h</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/include/EPollObject.h</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/include/Exception.h</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/src/BytestreamEventHandler.cpp</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/src/EPollObject.cpp</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/src/Reactor.cpp</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/include/StreamCheckerInterface.h</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/include/EventHandleInterface.h</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/src/ConnectionInfo.cpp</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/include/CommonMacro.h</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/src/ConnectionListener.cpp</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/include/ConnectionInfo.h</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/include/Event.h</file>
+            <file>file:/home/ethan/NetBeansProjects/FSTP/BaseServer/TCPServer/include/ConnectionListener.h</file>
+        </group>
+    </open-files>
+</project-private>

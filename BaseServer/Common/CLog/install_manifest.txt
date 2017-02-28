@@ -1,0 +1,4 @@
+/usr/local/include/log.h
+/usr/local/include/LogFile.h
+/usr/local/include/Exception.h
+/usr/local/lib/libCLOG.a
