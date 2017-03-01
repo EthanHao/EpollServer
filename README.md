@@ -2,20 +2,19 @@
 A high efficient Tcp server based on Epoll, Using reactor and producer consumer threadpool pattern. And use memory pool to improve the efficiency. prefer to use binary protocol to support some financial trading.  
 
 
-Instruction
+Instruction  
+###  1. Simply introduce the Reactor pattern.   
+Usually the reactor pattern use one process and one thread. The main goal of Reactor pattern is to seperate the application sepecific code. 
 
-1. ### Simply introduce the Reactor pattern.   
-Usually the reactor pattern use one process and one thread. The main goal of Reactor pattern is to seperate the application sepecific code .
+![reactor](./Portal/reactor.png)
 
-![reactor](/portal/reactor.png)
+### 2. Reactor pattern with threadpool
 
-2. ### Reactor pattern with threadpool
+  ![Open Device](./Portal/reactorWithPool.png)
 
-  ![Open Device](/portal/reactorWithPool.png)
+### 3.The detail of worker
 
-3. ### The detail of worker
-
-  ![Open](/portal/ReactorMoreDetail.png)
+  ![Open](./Portal/ReactorMoreDetail.png)
 
 
   
